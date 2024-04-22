@@ -17,6 +17,7 @@ To use a data model:
 2. Review the data model file(s) to understand the structure and relationships of the data.
 3. Modify the data model as needed to fit your specific requirements.
 4. Use the data model as a blueprint for designing and implementing your database schema.
+5. utils directory contains a mysql docker compose file which can be used for creating a mysql instance for testing out SQL scripts.
 
 ## Contribution
 
